@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>TBIO wiki</title>
+      <link>https://shoodingcanopner.github.io/TBIO_WIKI</link>
+      <description>Last 10 notes on TBIO wiki</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tag Index</title>
+    <link>https://shoodingcanopner.github.io/TBIO_WIKI/tags/</link>
+    <guid>https://shoodingcanopner.github.io/TBIO_WIKI/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 02 Sep 2026 08:33:07 GMT</pubDate>
+  </item><item>
+    <title>TBIO wiki</title>
+    <link>https://shoodingcanopner.github.io/TBIO_WIKI/</link>
+    <guid>https://shoodingcanopner.github.io/TBIO_WIKI/</guid>
+    <description><![CDATA[ POSTECH TBIO 연구실 위키 ]]></description>
+    <pubDate>Wed, 02 Sep 2026 08:31:56 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
